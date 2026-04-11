@@ -1,0 +1,65 @@
+# 📅 Day 3 - Pillars of Cloud Computing ☁️
+
+## 🏛 Pillars of Cloud Computing
+
+Cloud computing is built on key principles (pillars) that ensure systems are secure, scalable, and efficient.
+
+### 🔐 1. Security
+Protects data, applications, and systems from cyber attacks.
+
+👉 Example:
+Encryption, firewalls, IAM (Identity Access Management)
+
+---
+
+### 💰 2. Cost Optimization
+Cloud follows a **pay-as-you-go model**.
+
+👉 You only pay for the resources you use.
+
+---
+
+### ⚡ 3. Reliability
+Ensures systems run **24x7 without failure**.
+
+👉 Example:
+Backup systems, multi-region deployment
+
+---
+
+### 🚀 4. Performance Efficiency
+Using resources efficiently to maintain high performance.
+
+👉 Example:
+Auto-scaling, load balancing
+
+---
+
+### 🌱 5. Sustainability
+Efficient use of resources to reduce environmental impact.
+
+👉 Cloud providers optimize energy usage in data centers.
+
+---
+
+### 📈 6. Scalability & Flexibility
+Easily increase or decrease resources based on demand.
+
+👉 Example:
+Handling high traffic during sales or events
+
+---
+
+### ⚙️ 7. Operational Excellence
+Ability to monitor, manage, and improve systems continuously.
+
+👉 Example:
+Automation, monitoring tools
+
+---
+
+## 📚 What I Learned Today
+
+- Core pillars of cloud computing
+- Importance of security and reliability
+- How cloud improves performance and cost efficiency
